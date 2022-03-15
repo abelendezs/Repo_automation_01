@@ -36,8 +36,10 @@ _**Para los chiles**_
 | 1  | Pizca     | Nuez Moscada en Polvo
 | 1  | Cucharada | perejil para decorar
 
-
-<h3>PREPARACIÓN</h3>
+<p align="center">
+<img src="preparacion.jpg" width="350">
+</p>
+<h3>PREPARACIÓN</h3>  
 <ol>
 <li> Para el relleno, calentar el aceite en una sartén grande, sofreír la cebolla y el ajo hasta que queden transparentes. Agregar la carne y cocinar hasta que tome color.</li>
 <li>Agregar la manzana, pera, pasas, piñones y mezcla de condimentos. Sazonar con el Knorr® Caldo de Costilla incorporando todos los ingredientes <strong><em>  Cocinar 3 min. </em></strong> </li> 
