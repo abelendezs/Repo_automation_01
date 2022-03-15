@@ -53,7 +53,7 @@ _**Para los chiles**_
 <ol>
 <li>Coloque los chiles en un platón o en platos individuales. Báñelos con la nogada y decore con hojas de perejil, los granos de granada y las nueces. </em></strong> </li>
 </ol>
-
+<img src="Chiles-en-nogada-presentacion.jpg" width="350">
 
 
 
