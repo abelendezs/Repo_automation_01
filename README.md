@@ -47,6 +47,14 @@ _**Para los chiles**_
 <li> Servir el chile bañado parcialmente con la nogada, esparcir la granada encima y decorar con las hojas de perejil.</li>
 </ol>
 
+<h4>PRESENTACIÓN</h4>
+<ol>
+<li>Coloque los chiles en un platón o en platos individuales. Báñelos con la nogada y decore con hojas de perejil, los granos de granada y las nueces. </em></strong> </li>
+</ol>
+
+
+
+
 _**Receta Casi Original del grupo de Chef_ATM**_
 | Nombres|
 | ----------- |
