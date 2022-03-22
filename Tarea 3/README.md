@@ -26,6 +26,12 @@ https://cloud.google.com/storage/docs/listing-buckets#gsutil-list-buckets
 
 https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 
+## Comnado habilitar una API para un proyecto con la consola
+
+> gcloud services enable pubsub.googleapis.com
+
+https://cloud.google.com/apis/docs/getting-started?hl=es-419
+
 
 Notas adicionales:
 Nuevamente será un solo archivo README por equipo y como en ocasiones anteriores, para que tengan su participación deberá existir evidencia de su commit en el repositorio.
