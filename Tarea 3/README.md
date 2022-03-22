@@ -11,7 +11,7 @@ git
 
 https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
-<em><strong> Ejemplo de ejecucion de comando  </strong></em>
+<em><strong> * Ejemplo de ejecucion de comando  </strong></em>
 <p align="center">
 <em><strong>:sparkles:   :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign: :sparkles:</strong></em>
 </p>
