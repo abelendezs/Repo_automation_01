@@ -14,6 +14,11 @@ gcloud compute addresses list
 
 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
+<p align="center">
+<img src="Compute Engine.jpg" width="350">
+<img src="compute engine_2.jpg" width="350">
+</p>
+
 ### Listar buckets disponibles
 gcloud alpha storage ls
 
