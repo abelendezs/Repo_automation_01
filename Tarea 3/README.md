@@ -12,6 +12,7 @@ https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 ### Listar buckets disponibles
 gcloud alpha storage ls
+
 gsutil ls
 
 https://cloud.google.com/storage/docs/listing-buckets#gsutil-list-buckets
