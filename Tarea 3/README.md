@@ -3,8 +3,8 @@
 Hola equipo , apoyenme complemetando el readme como el ejemplo que pusecon otros comandos.
 recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 :technologist:
-- [x] :white_check_mark:
- ### Listar Compute Engine 
+
+- [x] :white_check_mark:  ### Listar Compute Engine 
 gcloud compute instances list  --> lista las instancias (VMs) dentro del proyecto configurado
 git
 
