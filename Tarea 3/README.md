@@ -10,7 +10,7 @@ gcloud compute instances list  --> lista las instancias (VMs) dentro del proyect
 git
 
 https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
-
+:heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign:
 <em><strong> Ejemplo de ejecucion de comando  </strong></em>
 <p align="center">
 <img src="Imagenes/comando_CE.jpg" width="550">
