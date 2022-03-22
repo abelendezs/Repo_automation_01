@@ -4,6 +4,9 @@ Hola equipo , apoyenme complemetando el readme como el ejemplo que pusecon otros
 recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 
 ### Listar Compute Engine
+gcloud compute instances list
+
+https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
 ### Listar IP’s en uso, existentes o reservadas
 gcloud compute addresses list
