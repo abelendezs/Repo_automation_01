@@ -6,6 +6,9 @@ recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 ### Listar Compute Engine
 
 ### Listar IP’s en uso, existentes o reservadas
+gcloud compute addresses list
+
+https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 ### Listar buckets disponibles
 gsutil ls
