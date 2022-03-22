@@ -8,6 +8,9 @@ recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 ### Listar IP’s en uso, existentes o reservadas
 
 ### Listar buckets disponibles
+gsutil ls
+
+https://cloud.google.com/storage/docs/listing-buckets#gsutil-list-buckets
 
 ### Listar Service Accounts existentes en un proyecto
 > gcloud iam service-accounts list
