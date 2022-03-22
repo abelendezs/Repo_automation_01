@@ -11,7 +11,7 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
 <em><strong> Ejemplo de ejecucion de comando  </strong></em>
 <p align="center">
-<img src="Imagenes/comando_CE.jpg" width="350">
+<img src="Imagenes/comando_CE.jpg" width="550">
 </p>
 <em><strong> Como visualizar en la consola de gcp </strong></em>
 <p align="center">
