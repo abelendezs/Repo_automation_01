@@ -43,6 +43,7 @@ https://cloud.google.com/storage/docs/listing-buckets#gsutil-list-buckets
 
 https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 
+- [x] :memo:
 ### Comando habilitar una API para un proyecto con la consola
 
 > gcloud services enable pubsub.googleapis.com
