@@ -9,18 +9,17 @@ git
 
 https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
-### Listar IP’s en uso, existentes o reservadas
-gcloud compute addresses list
-
-https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
-
-
 <p align="center">
 <img src="Imagenes/Compute Engine.jpg" width="350">
 </p>
 <p align="center">
 <img src="Imagenes/compute engine_3.jpg" width="650">
 </p>
+
+### Listar IP’s en uso, existentes o reservadas
+gcloud compute addresses list
+
+https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 ### Listar buckets disponibles
 gcloud alpha storage ls
