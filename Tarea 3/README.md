@@ -4,7 +4,8 @@ Hola equipo , apoyenme complemetando el readme como el ejemplo que pusecon otros
 recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 
 ### Listar Compute Engine
-gcloud compute instances list  --> lista las instancias (VMs) dentro del proyecto
+gcloud compute instances list  --> lista las instancias (VMs) dentro del proyecto configurado
+git
 
 https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 

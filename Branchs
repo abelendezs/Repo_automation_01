@@ -1,0 +1,12 @@
+Son abstracciones que simuan ser entornos de trabajo 
+y son utiles dpara separar entre ambientes
+
+Los branchs siempre se genera (le main) al crear un nuevo repositorio.
+
+Simplemente es un lugar donde almacenamos archivos. 
+
+Comandos: 
+git checkout -b "NOMBRE_RAMA"
+git checkout "NOMBRE_RAMA"
+git merge    "RAMA ORIGEN"
+git checkout -d "NOMBRE_RAMA"
