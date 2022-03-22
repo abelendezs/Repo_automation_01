@@ -34,6 +34,9 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 <p align="center">
 <img src="Imagenes/compute engine_3.jpg" width="650">
 </p>
+<p align="center">
+<em><strong>:sparkles:   :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign: :sparkles:</strong></em>
+</p>
 
 - [x] :memo:
 ### Listar IP’s en uso, existentes o reservadas
