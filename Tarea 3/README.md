@@ -16,6 +16,7 @@ https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 <p align="center">
 <img src="Imagenes/Compute Engine.jpg" width="350">
+<img src="Imagenes/compute engine_2.jpg" width="350">
 </p>
 
 ### Listar buckets disponibles
