@@ -14,9 +14,7 @@ gcloud compute addresses list
 
 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
-<p align="center">
-<img src="Imagenes/compute engine_2.jpg" width="650">
-</p>
+
 <p align="center">
 <img src="Imagenes/Compute Engine.jpg" width="350">
 </p>
