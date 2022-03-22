@@ -17,6 +17,9 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 </p>
 <em><strong> Como visualizar en la consola de gcp </strong></em>
 <p align="center">
+<p align="center">
+<em><strong>:sparkles:   :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign: :sparkles:</strong></em>
+</p>
 <img src="Imagenes/Compute Engine.jpg" width="350">
 </p>
 <p align="center">
