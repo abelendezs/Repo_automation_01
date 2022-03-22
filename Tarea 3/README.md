@@ -20,7 +20,7 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 <img src="Imagenes/Compute Engine.jpg" width="350">
 </p>
 <p align="center">
-<em><strong>::sparkles:   :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :sparkles:</strong></em>
+<em><strong>::sparkles:   :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:     :heavy_minus_sign:    :heavy_minus_sign:    :sparkles:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:    :heavy_minus_sign:</strong></em>
 </p>
 <p align="center">
 <img src="Imagenes/compute engine_3.jpg" width="650">
