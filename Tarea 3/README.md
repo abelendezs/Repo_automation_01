@@ -9,6 +9,11 @@ git
 
 https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
+####<em><strong>Ejemplo de ejecucion de comando  </strong></em>
+<p align="center">
+<img src="Imagenes/comando_CE.jpg" width="350">
+</p>
+####<em><strong>Como visualizar en la consola de gcp </strong></em>
 <p align="center">
 <img src="Imagenes/Compute Engine.jpg" width="350">
 </p>
