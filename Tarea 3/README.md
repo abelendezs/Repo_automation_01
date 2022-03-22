@@ -19,7 +19,9 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 <p align="center">
 <img src="Imagenes/Compute Engine.jpg" width="350">
 </p>
+<p>
 :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign:
+</p>
 <p align="center">
 <img src="Imagenes/compute engine_3.jpg" width="650">
 </p>
