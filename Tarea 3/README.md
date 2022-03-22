@@ -4,7 +4,8 @@ Hola equipo , apoyenme complemetando el readme como el ejemplo que pusecon otros
 recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 :technologist:
 
-- [x] :white_check_mark:  ### Listar Compute Engine 
+- [x] :memo:
+### Listar Compute Engine  
 gcloud compute instances list  --> lista las instancias (VMs) dentro del proyecto configurado
 git
 
@@ -22,11 +23,13 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 <img src="Imagenes/compute engine_3.jpg" width="650">
 </p>
 
+- [x] :memo:
 ### Listar IP’s en uso, existentes o reservadas
 gcloud compute addresses list
 
 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
+- [x] :memo:
 ### Listar buckets disponibles
 gcloud alpha storage ls
 
@@ -34,6 +37,7 @@ gsutil ls
 
 https://cloud.google.com/storage/docs/listing-buckets#gsutil-list-buckets
 
+- [x] :memo:
 ### Listar Service Accounts existentes en un proyecto
 > gcloud iam service-accounts list
 
