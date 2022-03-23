@@ -1,0 +1,28 @@
+hola a todos
+
+CESAR ALEJANDRO VAZQUEZ CEDILLO09:01
+https://github.com/desandovals/automation-adoption-exercises/tree/main/ejercicio-1
+DANIEL ENRIQUE SANDOVAL SANCHEZ09:01
+projectid-bkt08
+crp-dev-iac-testing
+Tú09:03
+ gsutil mb -p PROJECT_ID -c STORAGE_CLASS -l BUCKET_LOCATION -b on gs://BUCKET_NAME
+MARIANA MENESES CANCINO09:03
+ gsutil mb -p crp-dev-iac-testing -c STORAGE_CLASS -l BUCKET_LOCATION -b on gs://crp-dev-iac-testing-bkt08
+https://docs.google.com/presentation/d/1X-Tcuycgz_Ev3D6b5R8EFKxQdVWvCgYNWYnTMTyUKwk/edit#slide=id.g11a1a3098c3_0_10
+Tú09:05
+gsutil mb -p crp-dev-iac-testing -c NEARLINE -l US-EAST1 -b on gs://crp-dev-iac-testing-bkt08
+ANDRES BELENDEZ SALDAÑA09:07
+crp-dev-iac-testing-bkt08
+RAFAEL OMAR Garcia09:11
+gsutil cp rafa-omar.txt gs://crp-dev-iac-testing-bkt08/
+gsutil ls gs://crp-dev-iac-testing-bkt08/
+CESAR ALEJANDRO VAZQUEZ CEDILLO09:14
+gsutil label ch -l KEY_1:Los-Automatizados gs://BUCKET_NAME
+gsutil label ch -l KEY_1:Los-Automatizados gs://crp-dev-iac-testing-bkt08/
+CESAR ALEJANDRO VAZQUEZ CEDILLO09:16
+gsutil cp gs://crp-dev-iac-testing-bkt08/Mariana.txt .
+CESAR ALEJANDRO VAZQUEZ CEDILLO09:18
+gsutil cp gs://crp-dev-iac-testing-bkt08/rafa-omar.txt .
+ANDRES BELENDEZ SALDAÑA09:18
+crp-dev-iac-testing
