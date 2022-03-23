@@ -1,8 +1,6 @@
 # grupo-02-Los_automatizados
 
-Hola equipo , apoyenme complemetando el readme como el ejemplo que pusecon otros comandos.
-recuerden al final, añadir las URLs de las cuales obtuvieron la información.
-:technologist:
+## Comandos de gcloud para crear las siguientes consultas :technologist:
 
 - [x] :memo:
 ### Listar Compute Engine  
