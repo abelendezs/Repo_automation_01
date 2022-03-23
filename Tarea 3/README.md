@@ -6,7 +6,7 @@ recuerden al final, añadir las URLs de las cuales obtuvieron la información.
 
 - [x] :memo:
 ### Listar Compute Engine  
-gcloud compute instances list  --> lista las instancias (VMs) dentro del proyecto configurado
+> gcloud compute instances list  --> lista las instancias (VMs) dentro del proyecto configurado
 git
 
 https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
@@ -40,15 +40,15 @@ https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
 - [x] :memo:
 ### Listar IP’s en uso, existentes o reservadas
-gcloud compute addresses list
+> gcloud compute addresses list
 
 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
 - [x] :memo:
 ### Listar buckets disponibles
-gcloud alpha storage ls
+> gcloud alpha storage ls
 
-gsutil ls
+> gsutil ls
 
 https://cloud.google.com/storage/docs/listing-buckets#gsutil-list-buckets
 
@@ -65,7 +65,4 @@ https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 
 https://cloud.google.com/apis/docs/getting-started?hl=es-419
 
-
-Notas adicionales:
-Nuevamente será un solo archivo README por equipo y como en ocasiones anteriores, para que tengan su participación deberá existir evidencia de su commit en el repositorio.
-El proyecto que pueden tomar para hacer las consultas es el crp-dev-iac-testing. Sin embargo, las tarea es únicamente escribir comandos genéricos, sin necesidad de entrar a ningún proyecto en GCP.
+Para mas informacion consulten a nuestro equipo Los_Automatizados :sparkles:
