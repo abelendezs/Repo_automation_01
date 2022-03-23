@@ -1,5 +1,5 @@
 # Chiles en Nogada
-## Ingredientes
+## Ingredientes 👀
 
 _**Para El Relleno**_
 | Cantidad |Unidad de medida|Ingrediente|
