@@ -63,4 +63,13 @@ https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 
 https://cloud.google.com/apis/docs/getting-started?hl=es-419
 
+- [x] :memo:
+### Comando verificar cuál es la configuración predeterminada de la región y zona
+
+> gcloud config get-value compute/zone
+> gcloud config get-value compute/region
+
+https://cloud.google.com/compute/docs/regions-zones/
+
+
 Para mas informacion consulten a nuestro equipo Los_Automatizados :sparkles:
