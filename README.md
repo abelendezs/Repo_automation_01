@@ -37,7 +37,7 @@ _**Para los chiles**_
 | 1  | Cucharada | perejil para decorar
 
 <p align="center">
-<img src="preparacion.jpg" width="350">
+<img src="Imagenes\preparacion.jpgpreparacion.jpg" width="350">
 </p>
 <h3>PREPARACIÓN</h3>  
 <ol>
